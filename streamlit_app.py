@@ -196,8 +196,7 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video("#자신이 만든 레포지토리(저장소)에 streamlit_app.py 만들고 다음 내용 복붙해서 집어넣기
-
+    st.video("https://www.youtube.com/watch?v=9L3xBCoUnvM")
 import streamlit as st
 import pandas as pd
 
